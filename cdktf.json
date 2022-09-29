@@ -1,0 +1,15 @@
+{
+  "language": "go",
+  "app": "go run main.go",
+  "codeMakerOutput": "generated",
+  "projectId": "81e63088-f0a5-495f-ae23-867f52760e13",
+  "sendCrashReports": "true",
+  "terraformProviders": [
+    "hashicorp/consul@~> 2.16"
+  ],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
